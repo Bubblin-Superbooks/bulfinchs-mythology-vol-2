@@ -1,5 +1,5 @@
 {
-  "name": "bulfinchs-mythology-vol-1",
+  "name": "bulfinchs-mythology-vol-2",
   "version": "0.0.8",
   "description": "Superbook Bulfinch's Mythology by Thomas Bulfinch",
   "keywords": [
@@ -11,7 +11,7 @@
   "homepage": "https://bubblin.io/thomasbulfinch",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marvindanig/bulfinchs-mythology-vol-1"
+    "url": "https://github.com/marvindanig/bulfinchs-mythology-vol-2"
   },
   "scripts": {
     "postinstall": "node ./crust/scripts/ready.js"
